@@ -1,5 +1,10 @@
 
-# Personal Website
+# Deepak - Personal portfolio Website
+
+built using HTML and CSS.
+
+
+
 
 
 
@@ -12,4 +17,10 @@
 
 
 
+
+
+## Authors
+
+- [@Deepak](https://github.com/Deepak-ODRDLabs)
+  
 
