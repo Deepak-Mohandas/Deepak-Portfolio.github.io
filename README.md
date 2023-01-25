@@ -1,2 +1,15 @@
-# Deepak-ODRDLabs.Github.io
-Personal Website
+
+# Personal Website
+
+
+
+
+
+
+![app screenshot](https://github.com/Deepak-ODRDLabs/Deepak-ODRDLabs.Github.io/blob/main/img/Intro.png)
+
+
+
+
+
+
