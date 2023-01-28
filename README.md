@@ -11,7 +11,7 @@ built using HTML and CSS.
 
 
 
-![app screenshot](https://github.com/Deepak-ODRDLabs/Deepak-ODRDLabs.github.io/blob/main/img/intro.png)
+![https://github.com/Deepak-ODRDLabs/Deepak-ODRDLabs.github.io/blob/main/assets/img/intro.png)
 
 
 
